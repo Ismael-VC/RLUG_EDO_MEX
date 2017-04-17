@@ -1,5 +1,5 @@
-# RLUG_MEX
+# RLUG_EDO_MEX
 
-RLUG Mexico Logo
+RLUG EDO MEX Logo
 
 ![](img/RLUG_MEX_1920x1080.png)
